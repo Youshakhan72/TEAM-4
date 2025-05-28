@@ -1,0 +1,40 @@
+Bash 
+pip install pygame
+
+🎮 How the Game Works:
+1. Start the Game
+When you run the game, it shows a background image and starts background music.
+
+A few random words appear on the right side of the screen and start moving left slowly.
+
+2. Your Goal
+You need to type the exact word you see on the screen in the input box at the bottom.
+
+Then press Enter to submit.
+
+3. If You Type a Word Correctly
+That word disappears.
+
+Your score increases by 10 points.
+
+The words move a bit faster.
+
+A sound plays for success.
+
+4. If a Word Reaches the Left Edge
+You lose a life (you start with 15 lives).
+
+If all lives are lost, the game ends and plays a “game over” sound.
+
+5. Leveling Up
+Every 50 points, your level increases, and one new word is added.
+
+6. Game Over
+You’ll see a "GAME OVER" message.
+
+You can press:
+
+R to restart the game.
+
+Q to quit the game.
+

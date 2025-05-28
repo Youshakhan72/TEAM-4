@@ -1,0 +1,17 @@
+How It Works:
+It asks you for:
+
+Your name
+
+Your job title
+
+A list of skills (separated by commas)
+
+Your previous experience
+
+It formats the info into a clean, readable resume layout using an f-string.
+
+It saves the resume into a file called resume.txt.
+
+Finally, it shows:
+ "Resume saved to resume.txt"

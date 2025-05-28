@@ -1,2 +1,14 @@
 Bash: 
 pip install Cryptography 
+
+
+How It Works:
+It asks you to type a secret note.
+
+It encrypts the note using a secret key.
+
+It prints out the encrypted version (which looks like random text).
+
+It asks: “Decrypt?”
+
+If you type y, it decrypts the encrypted text and shows your original message.

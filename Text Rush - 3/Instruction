@@ -1,7 +1,7 @@
 Bash 
 pip install pygame
 
-🎮 How the Game Works:
+How the Game Works:
 1. Start the Game
 When you run the game, it shows a background image and starts background music.
 
